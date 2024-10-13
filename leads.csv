@@ -1,2 +1,2 @@
-Name,Email,Company,Industry,LeadSource
-John Brown,john.brown@startup.io,Skyline Industries,Technology,X.com
+FirstName,LastName,Email,Company,Industry,LeadSource
+John, Brown,john.brown@startup.io,Skyline Industries,Technology,X.com
