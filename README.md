@@ -1,2 +1,2 @@
 # salesforce-python
-Python integration with Salesforce
+Salesforce has RESTful APIs to integrate with other systems.  We use Python to load Leads data into Salesforce using oAuth. 
